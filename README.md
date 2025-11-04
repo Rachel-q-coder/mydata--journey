@@ -1,2 +1,2 @@
-# mydata-sql-journey
-My learning path to become a Data Analyst about SQL,
+# mydata--journey
+My learning path to become a Data Analyst，include SQL,pandas
